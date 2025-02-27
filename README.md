@@ -82,7 +82,7 @@ Our goal is to make cities cleaner and the process of waste management more effi
 ![Public Dashboard](https://github.com/vishwas7782/Urban-Waste-Control/blob/main/UWCS%20Screenshots/Screenshot_26-10-2024_3136_localhost.jpeg)
 
 ### Municipal Dashboard
-![Municipal Dashboard](https://github.com/your-username/urban-waste-control/blob/main/municipal-dashboard.png)
+![Municipal Dashboard](https://github.com/vishwas7782/urban-waste-control/blob/main/municipal-dashboard.png)
 
 
 ### Public Dashboard
