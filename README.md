@@ -1,6 +1,3 @@
-HEAD
-# Urban-waste-control
-
 # Urban Waste Control System 🚮🌍
 A smart solution for efficient urban waste management
 
@@ -78,18 +75,62 @@ Our goal is to make cities cleaner and the process of waste management more effi
 ### Home Page
 ![Home Page](https://github.com/vishwas7782/Urban-Waste-Control/blob/main/UWCS%20Screenshots/Screenshot_26-10-2024_3136_localhost.jpeg)
 
+### About Us
+![About us](https://github.com/vishwas7782/Urban-Waste-Control/blob/main/UWCS%20Screenshots/Screenshot_26-10-2024_320_localhost.jpeg)
+
+### Services
+![Services](https://github.com/vishwas7782/Urban-Waste-Control/blob/main/UWCS%20Screenshots/Screenshot_26-10-2024_3231_localhost.jpeg)
+
+### Report Garbage by General Public (without login)
+![Services](https://github.com/vishwas7782/Urban-Waste-Control/blob/main/UWCS%20Screenshots/Screenshot_26-10-2024_3250_localhost.jpeg)
+
+### View Garbage Collection Schedule (without login)
+![Services](https://github.com/vishwas7782/Urban-Waste-Control/blob/main/UWCS%20Screenshots/Screenshot_26-10-2024_3648_localhost.jpeg)
+
+### Contact Us
+![Services](https://github.com/vishwas7782/Urban-Waste-Control/blob/main/UWCS%20Screenshots/Screenshot_26-10-2024_3740_localhost.jpeg)
+
+### Sign Up - Role: Public Account
+![Services](https://github.com/vishwas7782/Urban-Waste-Control/blob/main/UWCS%20Screenshots/Screenshot_26-10-2024_3820_localhost.jpeg)
+
+### Sign Up - Email Verification
+![Services](https://github.com/vishwas7782/Urban-Waste-Control/blob/main/UWCS%20Screenshots/Screenshot_26-10-2024_3916_mail.google.com.jpeg)
+
+### Login
+![Services](https://github.com/vishwas7782/Urban-Waste-Control/blob/main/UWCS%20Screenshots/Screenshot_26-10-2024_3959_localhost.jpeg)
+
 ### Public Dashboard
-![Public Dashboard](https://github.com/vishwas7782/Urban-Waste-Control/blob/main/UWCS%20Screenshots/Screenshot_26-10-2024_3136_localhost.jpeg)
+![Public Dashboard](https://github.com/vishwas7782/Urban-Waste-Control/blob/main/UWCS%20Screenshots/Screenshot_26-10-2024_3130_localhost.jpeg)
+
+### Public Dashboard- View Garbage Collection Schedule
+![Public Dashboard- View Garbage Collection Schedule](https://github.com/vishwas7782/Urban-Waste-Control/blob/main/UWCS%20Screenshots/Screenshot_26-10-2024_31534_localhost.jpeg)
+
+### Public Dashboard- Raise Concern
+![Public Dashboard- Raise Concern](https://github.com/vishwas7782/Urban-Waste-Control/blob/main/UWCS%20Screenshots/Screenshot_26-10-2024_31422_localhost.jpeg)
+
+### Public Dashboard- View Raised Concern
+![Public Dashboard- View Raised Concern](https://github.com/vishwas7782/Urban-Waste-Control/blob/main/UWCS%20Screenshots/Screenshot_26-10-2024_3169_localhost.jpeg)
+
+### Public Dashboard- Report Garbage
+![Public Dashboard- Report Garbage](https://github.com/vishwas7782/Urban-Waste-Control/blob/main/UWCS%20Screenshots/Screenshot_26-10-2024_31630_localhost.jpeg)
+
+### Sign Up - Role:Municipal Employee Account
+![Services](https://github.com/vishwas7782/Urban-Waste-Control/blob/main/UWCS%20Screenshots/Screenshot_26-10-2024_35033_localhost.jpeg)
 
 ### Municipal Dashboard
-![Municipal Dashboard](https://github.com/vishwas7782/urban-waste-control/blob/main/municipal-dashboard.png)
+![Municipal Dashboard](https://github.com/vishwas7782/Urban-Waste-Control/blob/main/UWCS%20Screenshots/Screenshot_26-10-2024_31648_localhost.jpeg)
 
+### Municipal Dashboard- Update Schedule
+![Municipal Dashboard- Update Schedule](https://github.com/vishwas7782/Urban-Waste-Control/blob/main/UWCS%20Screenshots/Screenshot_26-10-2024_31711_localhost.jpeg)
 
-### Public Dashboard
-![Public Dashboard](https://example.com/public-dashboard-screenshot.png)
+### Municipal Dashboard- View Public Concerns
+![Municipal Dashboard- View Public Concerns](https://github.com/vishwas7782/Urban-Waste-Control/blob/main/UWCS%20Screenshots/Screenshot_26-10-2024_3490_localhost.jpeg)
 
-### Municipal Dashboard
-![Municipal Dashboard](https://example.com/municipal-dashboard-screenshot.png)
+### Municipal Dashboard- View Garbage Reports
+![Municipal Dashboard- View Garbage Reports](https://github.com/vishwas7782/Urban-Waste-Control/blob/main/UWCS%20Screenshots/Screenshot_26-10-2024_31731_localhost.jpeg)
+
+### Municipal Dashboard- View Garbage Reports (General Public)
+![Municipal Dashboard- View Garbage Reports (General Public)](https://github.com/vishwas7782/Urban-Waste-Control/blob/main/UWCS%20Screenshots/Screenshot_26-10-2024_31831_localhost.jpeg)
 
 ## Contributing 🤝
 We welcome contributions to the project. To get started:
@@ -110,4 +151,3 @@ This project is licensed under the [MIT License](LICENSE). See the LICENSE file 
 For any queries or suggestions, feel free to reach out:
 - Email: [urbanwastecontrol@gmail.com](mailto:urbanwastecontrol@gmail.com)
 - GitHub: [Urban Waste Control System](https://github.com/your-username/urban-waste-control)
- 38ccad6 (README updated)
