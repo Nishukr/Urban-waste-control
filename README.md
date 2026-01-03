@@ -1,17 +1,8 @@
 # Urban Waste Control System 🚮🌍
 A smart solution for efficient urban waste management
 
-🌐 **Live Demo:** [Urban Waste Control System](http://your-live-demo-url.com)
 
-## Table of Contents 📑
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Introduction 🎯
 The Urban Waste Control System is designed to enhance the communication between municipal authorities and the public. It empowers users to:
